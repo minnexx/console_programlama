@@ -1,0 +1,16 @@
+C:\Users\senanur\Desktop\TÜM KLASÖRLER\emine\aaaaa\konsol_programlama\bin\Debug\net5.0\konsol_programlama.exe
+C:\Users\senanur\Desktop\TÜM KLASÖRLER\emine\aaaaa\konsol_programlama\bin\Debug\net5.0\konsol_programlama.deps.json
+C:\Users\senanur\Desktop\TÜM KLASÖRLER\emine\aaaaa\konsol_programlama\bin\Debug\net5.0\konsol_programlama.runtimeconfig.json
+C:\Users\senanur\Desktop\TÜM KLASÖRLER\emine\aaaaa\konsol_programlama\bin\Debug\net5.0\konsol_programlama.runtimeconfig.dev.json
+C:\Users\senanur\Desktop\TÜM KLASÖRLER\emine\aaaaa\konsol_programlama\bin\Debug\net5.0\konsol_programlama.dll
+C:\Users\senanur\Desktop\TÜM KLASÖRLER\emine\aaaaa\konsol_programlama\bin\Debug\net5.0\ref\konsol_programlama.dll
+C:\Users\senanur\Desktop\TÜM KLASÖRLER\emine\aaaaa\konsol_programlama\bin\Debug\net5.0\konsol_programlama.pdb
+C:\Users\senanur\Desktop\TÜM KLASÖRLER\emine\aaaaa\konsol_programlama\obj\Debug\net5.0\konsol_programlama.csproj.AssemblyReference.cache
+C:\Users\senanur\Desktop\TÜM KLASÖRLER\emine\aaaaa\konsol_programlama\obj\Debug\net5.0\konsol_programlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senanur\Desktop\TÜM KLASÖRLER\emine\aaaaa\konsol_programlama\obj\Debug\net5.0\konsol_programlama.AssemblyInfoInputs.cache
+C:\Users\senanur\Desktop\TÜM KLASÖRLER\emine\aaaaa\konsol_programlama\obj\Debug\net5.0\konsol_programlama.AssemblyInfo.cs
+C:\Users\senanur\Desktop\TÜM KLASÖRLER\emine\aaaaa\konsol_programlama\obj\Debug\net5.0\konsol_programlama.csproj.CoreCompileInputs.cache
+C:\Users\senanur\Desktop\TÜM KLASÖRLER\emine\aaaaa\konsol_programlama\obj\Debug\net5.0\konsol_programlama.dll
+C:\Users\senanur\Desktop\TÜM KLASÖRLER\emine\aaaaa\konsol_programlama\obj\Debug\net5.0\ref\konsol_programlama.dll
+C:\Users\senanur\Desktop\TÜM KLASÖRLER\emine\aaaaa\konsol_programlama\obj\Debug\net5.0\konsol_programlama.pdb
+C:\Users\senanur\Desktop\TÜM KLASÖRLER\emine\aaaaa\konsol_programlama\obj\Debug\net5.0\konsol_programlama.genruntimeconfig.cache
